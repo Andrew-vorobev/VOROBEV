@@ -9,10 +9,10 @@ import numpy as np
 title = 0
 salaryMin = 1
 salaryMax = 2
-salary = 3
+salary = 3git
 area = 4
 published = 5
-# new
+# new in develop
 currency = {
     "AZN": 35.68,
     "BYR": 23.91,
